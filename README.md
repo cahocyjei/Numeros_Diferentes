@@ -23,4 +23,5 @@ Sample Output
 Explanation
 
 si tenemos tareas con duración {5, 3, 5, 2, 5}
+
 5, 2, 3 son los elementos diferentes
