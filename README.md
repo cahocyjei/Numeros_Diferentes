@@ -14,8 +14,10 @@ Sample Input For Custom Testing
 5
 2
 5
+
 Sample Output
 3
+
 Explanation
 si tenemos tareas con duración {5, 3, 5, 2, 5}
 5, 2, 3 son los elementos diferentes
